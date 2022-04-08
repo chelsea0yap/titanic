@@ -10,7 +10,7 @@ A classification demo using [titanic](https://www.kaggle.com/c/titanic) dataset
 
 st.sidebar.write ("For more info, please contact:")
 
-st.sidebar.write("<a href='https://www.linkedin.com/in/yong-poh-yu/'>Dr. Yong Poh Yu </a>", unsafe_allow_html=True)
+st.sidebar.write("<a href='https://https://www.linkedin.com/in/chelsea-yap-141a31a8/'>Chelsea </a>", unsafe_allow_html=True)
 
 
 
